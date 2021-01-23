@@ -1,0 +1,6 @@
+﻿  Snake.cpp
+C:\.НАВЧАННЯ\Snake\Snake\Snake.cpp(62,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\.НАВЧАННЯ\Snake\Snake\Snake.cpp(207,7): error C2065: LEFT: необъявленный идентификатор
+C:\.НАВЧАННЯ\Snake\Snake\Snake.cpp(207,7): error C2131: выражение не определяется константой
+C:\.НАВЧАННЯ\Snake\Snake\Snake.cpp(207,7): message : обнаружено неконстантное (под)выражение
+C:\.НАВЧАННЯ\Snake\Snake\Snake.cpp(207,1): error C2051: значение выражения для варианта выбора не является константой
